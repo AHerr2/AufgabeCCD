@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=anzeigeLimit
+comment0.target=Nummernanzeige(int)
+comment1.params=
+comment1.target=int\ gibWert()
+comment2.params=
+comment2.target=java.lang.String\ gibAnzeigeWert()
+comment3.params=neuerWert
+comment3.target=void\ setzeWert(int)
+comment4.params=
+comment4.target=void\ erhoehen()
+comment5.params=r
+comment5.target=void\ setzeReset(int)
+numComments=6
